@@ -1,0 +1,9 @@
+ops:
+- name: dashboards
+  cname: 仪表盘
+  ops:
+    - "/dashboards"
+    - "/dashboards/add"
+    - "/dashboards/put"
+    - "/dashboards/del"
+    - "/dashboards-built-in"
